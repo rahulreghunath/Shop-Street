@@ -342,7 +342,7 @@ CREATE TABLE `tbl_registration` (
 --
 
 INSERT INTO `tbl_registration` (`id`, `fname`, `lname`, `address`, `mobile`, `city`, `state`, `pin`, `email`) VALUES
-(1, 'rahul', 'r', 'sreesailam', '9037500119', 'adoor', 'kerala', '99887', 'rahul@gmail.com'),
+(1, 'rahul', 'r', 'sreesailam', '9037500000', 'adoor', 'kerala', '99887', 'rahul@gmail.com'),
 (20, 'vishnu', 'tt', 'Manu Bhavan', '9098887765', 'Kottarakkara', 'Kerala', '756567', 'vishnu@gmail.com'),
 (22, 'manu', 'mm', 'Manu vilas', '7656565656', 'Pandalam', 'Kerala', '665565', 'manu@gmail.com');
 
